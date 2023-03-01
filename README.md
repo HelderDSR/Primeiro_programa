@@ -12,5 +12,5 @@
 
 ###### git pull origin main para "puchar o que foi alterado"
 
- - git remote -v monstra se tem algum projeto linkado no repositorio
+ git remote -v monstra se tem algum projeto linkado no repositorio
 
