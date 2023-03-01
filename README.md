@@ -10,7 +10,7 @@
 
 ##### git push -u origin (nome do bransh no meu caso o "main") 
 
-###### git pull origin main para "puchar o que foi alterado"
+###### git pull origin main para "puxar o que foi alterado"
 
- git remote -v monstra se tem algum projeto linkado no repositorio
+  - git remote -v monstra se tem algum projeto linkado no repositorio
 
